@@ -34,7 +34,6 @@ JavaScript and CSS for app logic and styling
 Getting Started
 Installation
 Clone the repository:
-
 bash
 git clone https://github.com/your-username/edge-trade.git
 cd ISDN_3150_Mid-Term
@@ -46,7 +45,9 @@ Launch the development server:
 
 bash
 npm run dev
-Open the app in your browser at http://localhost:3000. For the best experience, enable mobile device emulation in your browser’s developer tools and set the viewport to iPhone 14 Pro dimensions (430 x 932).
+Open the app in your browser at http://localhost:3000. 
+
+For the best experience, enable mobile device emulation in your browser’s developer tools and set the viewport to iPhone 14 Pro dimensions (430 x 932).
 
 Folder Structure
 src/components/ — Contains reusable UI components such as product pages and shopping cart
@@ -58,26 +59,21 @@ src/ProductPage.js — Handles product display and 3D model interaction
 src/App.js — Main app component managing routing, state, and rendering
 
 How to Use
-Launch the app and tap the "Start" button to begin.
+1.) Launch the app and tap the "Start" button to begin.
 
-Navigate through the splash and brand introduction screens.
+2.) Navigate through the splash and brand introduction screens.
 
-Browse products and tap any item to view its details and interact with its 3D model.
+3.)Browse products and tap any item to view its details and interact with its 3D model.
 
-Use zoom and rotation controls to examine products closely.
+4.)Use zoom and rotation controls to examine products closely.
 
-Add desired products to your shopping cart.
+5.)Add desired products to your shopping cart.
 
-Access the cart to review selected items and their quantities.
+6.)Access the cart to review selected items and their quantities.
 
-(Future) Use the AI chat feature to get shopping assistance.
+7.)(Future) Use the AI chat feature to get shopping assistance.
 
-Planned Enhancements
-Full integration of an AI chatbot to provide personalized shopping help and product suggestions.
 
-Implementation of a checkout process for completing purchases.
-
-Addition of more detailed and realistic 3D product models.
 
 Contributors
 Jimmy Wu — Lead Developer
