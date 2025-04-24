@@ -67,6 +67,7 @@ src/ProductPage.js — Handles product display and 3D model interaction
 src/App.js — Main app component managing routing, state, and rendering
 
 How to Use
+
 1.) Launch the app and tap the "Start" button to begin.
 
 2.) Navigate through the splash and brand introduction screens.
